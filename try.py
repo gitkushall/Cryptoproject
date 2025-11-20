@@ -1,4 +1,3 @@
-# CS 196 FINAL project
 import streamlit as st
 import pandas as pd
 import requests
